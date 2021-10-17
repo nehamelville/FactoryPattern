@@ -1,0 +1,13 @@
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/bin/Debug/netcoreapp3.1/FactoryPattern.deps.json
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/bin/Debug/netcoreapp3.1/FactoryPattern.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/bin/Debug/netcoreapp3.1/FactoryPattern.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/bin/Debug/netcoreapp3.1/FactoryPattern.dll
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/bin/Debug/netcoreapp3.1/FactoryPattern.pdb
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.dll
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.pdb
+/Users/neha.melville/Desktop/Repo/FactoryPattern/FactoryPattern/obj/Debug/netcoreapp3.1/FactoryPattern.genruntimeconfig.cache
